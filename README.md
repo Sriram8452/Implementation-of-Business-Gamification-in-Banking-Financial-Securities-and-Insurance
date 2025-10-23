@@ -37,7 +37,7 @@ In our application we have introduced three gamification models such as Financia
 
 Financial Crossword Puzzles will make understand the Business terminologies and used to  memorize the key terminologies of  particular Business domains. The Complex Business Terms are trained to a fresher by the clues and keywords. These crossword Puzzles can have the total business terminologies about the banking, financial, securities and insurance sectors so that he can able to memorize and understand all the terminologies very easily.
 
-Business Fluctuations are used to understand t he Business Workflows and these Business Fluctuations helps in decision making by providing skill based questions, higher order thinking skills questions and critical thinking questions which makes the trainees to become stronger and sharper in business domains and helps them to make accurate business decisions.
+Business Fluctuations are used to understand the Business Workflows and these Business Fluctuations helps in decision making by providing skill based questions, higher order thinking skills questions and critical thinking questions which makes the trainees to become stronger and sharper in business domains and helps them to make accurate business decisions.
 
 Business Wild Cards introduces Various Possibilities on Business to make accurate and appropriate decisions on various levels of responsibilities. The Trainee will choose the accurate answers for the case study questions so that they can able to analyze the traditional business intelligence and can implement the traditional business intelligence into current and upcoming businesses.
 
